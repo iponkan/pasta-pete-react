@@ -9,7 +9,8 @@ class PastaButton extends React.Component {
     render() {
         return (
             <>
-                <button onClick={() => this.handleClick(this.props)} className="btn btn-primary">Add to order</button> <mark>{this.props.orders}</mark>
+                <button onClick={() => this.handleClick(this.props)} className="btn btn-primary">Add to order</button>
+                <mark>{this.props.orders}</mark>
             </>
         );
     }

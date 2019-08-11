@@ -10,7 +10,7 @@ module.exports = {
 
     dish2: {
         name: 'Lasagna',
-        image: 'http://i.istockimg.com/file_thumbview_approve/32135274/5/stock-photo-32135274-cooked-lobster.jpg',
+        image: 'http://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/11/12/0/FN_Ina-Garten-Real-Meatballs-and-Spaghetti_s4x3.jpg.rend.hgtvcom.406.305.jpeg',
         desc: 'This tender, mouth-watering beauty is a fantastic hit at any dinner party.',
         price: 3200,
         status: 'available'
